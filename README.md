@@ -22,11 +22,17 @@
    ```bash
    git clone https://github.com/Zapotichnyi06/Beautiful-Clock-App.git
 
-2. **Перейти в директорию проекта:** cd clock
+2. **Перейти в директорию проекта:**
+   ```bash
+    cd clock
 
-3. **Установить зависимости:** npm install
+4. **Установить зависимости:**
+   ```bash
+   npm install
 
-4. **Запустить приложение:** npm start
+6. **Запустить приложение:**
+   ```bash
+   npm start
 
 Посетите http://localhost:3000/ в вашем браузере, чтобы увидеть Clock в действии.
 
